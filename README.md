@@ -12,7 +12,7 @@ Trabaje en 2 proyectos individuales en Visual studio y 3 aplicaciones web en Rea
 4-DogsApp: Aplicacion de busqueda de razas de perros,  disponible en: https://dogs-app-rouge.vercel.app<br>
 5-Hostel Project: Aplicacion desarrollada en un equipo de 7 integrantes la misma esta diseñada para gestionar y administrar un hostel,  podes crear habitaciones y alquilar las camas a travez de su pasarela de pagos(Mercado Pago) se encuentra disponible en: https://hostel-project.vercel.app <br>
 
-📫 Escribime: zyro2930@gmail.com
+📫 Escribime: zyro2930@gmail.com <br/>
 <a href="https://www.linkedin.com/in/sebastian-bernachea-aa4570237"  target="_blank">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" /> LinkedIn
 </a>
