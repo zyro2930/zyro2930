@@ -14,9 +14,9 @@ Trabaje en proyectos variados y en diferentes lenguajes.
 📫 Escribime: zyro2930@gmail.com
 linkedin: https://www.linkedin.com/in/sebastian-bernachea-aa4570237
 
-<a href="https://www.linkedin.com/in/sebastian-bernachea-aa4570237" rel="nofollow noreferrer" target=_blank>
+<a href="https://www.linkedin.com/in/sebastian-bernachea-aa4570237" rel="nofollow noreferrer" target="_blank">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+</a> &nbsp; 
 
 
 
